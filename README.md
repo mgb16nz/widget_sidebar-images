@@ -1,7 +1,7 @@
 # SilverStripe Business Hours Widget
 
 ## Documentation
-A Widget to display Images Slider in the sidebar of your site
+A Widget to display Images as a fadeout slide show in the sidebar of your site
 
 ## Requirements
 
